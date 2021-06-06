@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PixabayImages</string>
+    <string name="enter_your_request">Enter your request</string>
+    <string name="find">Find</string>
+</resources>
